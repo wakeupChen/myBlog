@@ -1,5 +1,5 @@
-## 前端面试题网站
+## 个人博客
 
-用vitePress搭建的前端面试题文档，预览地址：https://jack-star-t.github.io/interview/
+用vitePress搭建的前端博客，用于记录自己工作中的一些问题
 
 
